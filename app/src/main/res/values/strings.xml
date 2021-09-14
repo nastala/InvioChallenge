@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">InvioChallenge</string>
+    <string name="api_omdb_url">https://www.omdbapi.com/</string>
+    <string name="api_key_omdb">eb276170</string>
+    <string name="main_activity_et_search">Enter title of the movie</string>
+    <string name="main_activity_btn_search">Search</string>
+    <string name="movie_title_holder">Guardians of the Galaxy Vol. 2</string>
+    <string name="movie_title_header">Title: </string>
+    <string name="movie_actors_holder">Chris Pratt, Zoe Saldana, Dave Bautista</string>
+    <string name="movie_actors_header">Actors: </string>
+    <string name="movie_awards_holder">Nominated for 1 Oscar. 15 wins and 58 nominations total</string>
+    <string name="movie_awards_header">Awards: </string>
+    <string name="movie_director_holder">James Gunn</string>
+    <string name="movie_director_header">Director: </string>
+    <string name="movie_genre_holder">Action, Adventure, Comedy</string>
+    <string name="movie_genre_header">Genre: </string>
+
+    <string name="movie_plot_header">Plot: </string>
+    <string name="movie_release_date_holder">01 January 1900</string>
+    <string name="movie_rating_holder">0.0</string>
+    <string name="movie_year_holder">1900</string>
+    <string name="movie_imdb_rating_holder">0.0/10</string>
+    <string name="movie_imdb_rating_header">IMDB Rating: </string>
+    <string name="movie_imdb_site_holder">Go to site</string>
+    <string name="movie_plot_holder">The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord\'s encounter with his father the ambitious celestial being Ego.</string>
+    <string name="url_imdb">https://www.imdb.com/</string>
+    <string name="err_et_search_empty">You need to enter a movie title!</string>
+    <string name="err_response_empty">No results found!</string>
+    <string name="state_title">title</string>
+    <string name="state_imdb_id">imdb_id</string>
+</resources>
